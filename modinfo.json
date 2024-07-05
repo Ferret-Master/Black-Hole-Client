@@ -1,8 +1,8 @@
 {
     "context": "client",
     "identifier": "com.pa.ferretmaster.black-hole-client",
-    "display_name": "black hole",
-    "description": "replaces the sun effect with a black hole",
+    "display_name": "black hole client",
+    "description": "replaces the sun effect with a black hole, client only",
     "author": "Ferretmaster",
     "version": "1.0",
     "build": "120799",
